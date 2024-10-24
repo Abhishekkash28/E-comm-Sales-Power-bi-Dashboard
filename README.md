@@ -13,13 +13,13 @@ Geographical Insights: Sales distribution across various regions and countries w
 Time-based Trends: Monthly, quarterly, and yearly sales trends for tracking business growth.
 Interactive Filters: Allows users to filter data by product category, customer segment, and region to get tailored insights.
 
-### Tools & Technologies Used
+## Tools & Technologies Used
 
 Power BI: For building the dashboard and visualizing the data.
 Excel/CSV: Source data used to create the dashboard.
 DAX (Data Analysis Expressions): Used for calculations and creating dynamic measures in Power BI.
 
-#### Dashboard Views
+## Dashboard Views
 
 1. Sales Summary:
 A high-level overview of total sales, order quantity, and profit margin.
